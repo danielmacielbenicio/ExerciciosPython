@@ -1,0 +1,10 @@
+nome_completo = input("Digite seu nome completo: ")
+idade = int(input("Digite sua idade: "))
+peso = float(input("Digite o seu peso em kg: "))
+altura = float(input("Digite sua altura em metros: "))
+
+print("\nResumo do Cadastro:")
+print("Nome: ", nome_completo)
+print("Idade:", idade, "anos")
+print("Peso: ", peso, "kg")
+print("Altura:", altura, "m" )
